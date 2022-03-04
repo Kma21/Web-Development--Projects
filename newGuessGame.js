@@ -11,7 +11,7 @@ let q2 = null;
 
 // <---- Game Function Block ----> //
 
-function guessNumber() {
+function main() {
   while (gameActive) {
     chooseDifficulty();
     createRandomNumber();
