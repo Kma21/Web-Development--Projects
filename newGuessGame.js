@@ -108,4 +108,4 @@ function guessAndCheck() {
   playAgain();
 }
 
-guessNumber();
+main();
